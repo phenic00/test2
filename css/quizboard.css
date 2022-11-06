@@ -1,0 +1,54 @@
+
+body {
+  width: 600px;
+          margin: 0, auto;
+         
+          background-image: red;
+          
+          }
+  
+    H3 {
+  
+      color: rgb(65, 50, 226);
+  
+      font-size: large;
+  
+      text-decoration: solid;
+  
+      text-decoration: underline;
+  
+      box-sizing: border-box;
+    }
+  
+    div {
+  
+      padding-top: 50px;
+  
+      padding-right: 30px;
+  
+      padding-bottom: 50px;
+  
+      padding-left: 80px;
+  
+    }
+  
+    p {
+  
+      color: rgba(8, 5, 86, 0.708);
+  
+      font-style: bold;
+      text-align: justify;
+      font-size: large;
+  
+      text-decoration: solid;
+  
+      text-decoration: underline;
+  
+      box-sizing: border-box;
+  
+    }
+     h1 {
+     color: rgb(193, 54, 54);
+     
+    }
+    
